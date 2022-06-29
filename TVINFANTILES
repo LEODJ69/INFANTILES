@@ -1,7 +1,6 @@
-#EXTM3U
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image2492092642.jpg"group-title="",TELETUBIES
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuteletubbies/CDN/1280x720_5000000/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image66291515902.jpg"group-title="",KetNet Junior
 https://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 #EXTINF:-1  tvg-logo="",Simpsons
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1656543740/ei/nIW8YsHkEpOB5gSNgY0o/ip/200.87.91.130/id/zB8Md4SIVX4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCy2N-e-xwGxZzcyE0iYkxG8tM0A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAK6Jfyg1ePjLiA7NRNqYsxIvTX6PQ-umUOXzYWp42RhrAiEAo-dnSZiWqm6N7qGhcXam07_suRDxvrXRcZqSeX0u1lc%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1656544263/ei/p4e8YvKOD-aPobIPp8e-yAM/ip/200.87.91.130/id/zB8Md4SIVX4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC_MDSjohFVy7RuaqFSHjLlFL4Jw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgN4CCRmUs5bGw_php_0mitc4yQ7pu4KJB_wUyubxOyB0CIF6xy5Su4c_r3YBuWp_IuREwgegECgJ5mKhrWKwkxCEM/file/index.m3u8
