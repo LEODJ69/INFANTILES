@@ -12,3 +12,18 @@ https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/115_.m3u8?token=PB03CYYF7AaZ
 
 #EXTINF:-1 tvg-logo=""INFANTILES",DISCOVERY KIDS
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/117_.m3u8?token=M5iCm_nhxPuhPXGOZDHVNg&expires=1658521525&ip=200.87.91.128
+
+#EXTINF:-1 tvg-logo=""INFANTILES",TOONCAST
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/116_.m3u8?token=v1-oYWKraupK4Bd1DSL9Kg&expires=1658520176&ip=200.87.91.128
+
+#EXTINF:-1 tvg-logo=""INFANTILES",DISNEY JUNIOR
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/109_.m3u8?token=FGrco__YaQXZkn3YZb_f9g&expires=1658521288&ip=200.87.91.128
+
+#EXTINF:-1 tvg-logo=""INFANTILES",INFANTILES"NICK
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/110_.m3u8?token=p8r_SqWQesL-o8nIly1xCA&expires=1658521348&ip=200.87.91.128
+
+#EXTINF:-1 tvg-logo=""INFANTILES",INFANTILES"BOOMERANG
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/115_.m3u8?token=PB03CYYF7AaZW4vxfpcC6g&expires=1658521399&ip=200.87.91.128
+
+#EXTINF:-1 tvg-logo=""INFANTILES",DISCOVERY KIDS
+https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/117_.m3u8?token=M5iCm_nhxPuhPXGOZDHVNg&expires=1658521525&ip=200.87.91.128
